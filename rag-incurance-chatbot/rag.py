@@ -47,17 +47,6 @@ def ask(question):
 13. Pradhan Mantri Awas Yojana Urban PMAY: https://pmaymis.gov.in/
 If user asks how to apply or where to apply, provide the relevant link above.
 If user asks to compare schemes, present a clear comparison table.
-If user asks to compare schemes, present a Markdown table.
-
-Example:
-
-| Feature | PMJJBY | APY |
-|----------|----------|----------|
-| Purpose | Life Insurance | Pension |
-| Age | 18-50 | 18-40 |
-| Benefit | ₹2 lakh cover | Monthly pension |
-
-Use proper Markdown formatting.
 If you don't know something, say I don't know.
 Do not make up information.
 If you don't know something say I don't know.

@@ -1,10 +1,13 @@
 import streamlit as st
 from rag import ask
 import time
-st.set_page_config(page_title="Indian Insurance Chatbot", page_icon="/rag-incurance-chatbot/logo.jpg",layout="centered")
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(BASE_DIR, "logo.jpg")
+st.set_page_config(page_title="Indian Insurance Chatbot", page_icon="🛡️",layout="centered")
 col1,col2=st.columns([1,4])
 with col1:
-    st.image("/rag-incurance-chatbot/logo.jpg", width=100)
+    st.image(logo_path, width=100)
 with col2:
     st.title("Indian Insurance Chatbot")
     st.subheader("Ask me anything about Indian government insurance schemes ")

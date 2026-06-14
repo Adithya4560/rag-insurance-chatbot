@@ -197,40 +197,57 @@ Delay in settlement of claims defeats the very purpose of the flagship Pradhan M
 
 Agriculture initiatives schemes launched by the central government are:[14]
 
-======PM Vaya Vandana Yojana PMV=========
-Pradhan Mantri Matru Vandana Yojana (PMMVY) (transl. Prime Minister's Maternity Welfare Scheme), previously known as the Indira Gandhi Matritva Sahyog Yojana, is a maternity benefit program run by the government of India. It was originally launched in 2010 and renamed in 2017.[1][2] The scheme is implemented by the Ministry of Women and Child Development. It is a conditional cash transfer scheme for pregnant and lactating women of 19 years of age or above for the first live birth.[3]
+======National Pension System NPS=========
+The National Pension System (NPS) is a defined-contribution pension system in India regulated by the Pension Fund Regulatory and Development Authority (PFRDA) which is under the jurisdiction of the Ministry of Finance of the Government of India.[1] National Pension System Trust (NPS Trust) was established by PFRDA as per the provisions of the Indian Trusts Act of 1882 to take care of the assets and funds under this scheme for the best interest of the subscriber.[2]
 
-It provides a partial wage compensation to women for wage-loss during childbirth and childcare and to provide conditions for safe delivery and good nutrition and feeding practices. In 2013, the scheme was brought under the National Food Security Act, 2013 to implement the provision of cash maternity benefit of ₹6,000 (US$63) stated in the Act.[4]
+NPS Trust is the registered owner of all assets under the NPS architecture which is held for the benefit of the subscribers under NPS. The securities are purchased by Pension Funds on behalf of, and in the name of the Trustees, however individual NPS subscribers remain the beneficial owner of the securities, assets, and funds. NPS Trust, under the NPS Trust regulations, is responsible for monitoring the operational and functional activities of NPS intermediaries’ viz. custodian, Pension Funds, Trustee Bank, Central Recordkeeping Agency, Point of Presence, Aggregators, and of IRDAI-registered Annuity Service Providers (empanelled with PFRDA) and also for providing directions/advisory to PF(s) for protecting the interest of subscribers, ensuring compliance through an audit by Independent Auditors, and Performance review of Pension Funds etc.
 
-Presently, the scheme is implemented on a pilot basis in 53 selected districts across India and proposals are under consideration to scale it up to 200 additional 'high burden districts' in 2015–16.[5] The eligible beneficiaries would receive the incentive given under the Janani Suraksha Yojana (JSY) for Institutional delivery and the incentive received under JSY would be accounted towards maternity benefits so that on an average a woman gets ₹6,000 (US$63)[6]
+The New Pension Scheme was implemented with the decision of the Union Government to replace the Old Pension Scheme which had defined-benefit pensions for all its employees. Notification No. 5/7/2003-ECB issued by the Ministry of Finance (Department of Economic Affairs) in a Press Release dated 22 December 2003 mandated NPS for all new recruits (except armed forces) joining government services from 1 January 2004[3] While the scheme was initially designed for government employees only, it was opened up for all citizens of India between the age of 18 and 65 in 2009, for OCI card holders and PIO's in October 2019.[4] On 26 August 2021, PFRDA increased the maximum entry age for the National Pension System (NPS) from 65 years to 70 years. As per the revised norms, any Indian Citizen, resident or non-resident, and Overseas Citizen of India (OCI) between the age of 18–70 years can join NPS and continue or defer their NPS Account up to the age of 75 years.[5] It is administered and regulated by the Pension Fund Regulatory and Development Authority (PFRDA).[6][7][8][9]
 
-The scheme, rechristened Maternity benefits programme is set to cover the entire nation. Prime Minister Narendra Modi, in his 2017 New Year's Eve speech, announced that the scheme will be scaled up to cover 650 districts of the country.[7] The announcement assumes significance as India accounts for 17% of all maternal deaths in the world. The country's maternal mortality ratio is pegged at 97 per 100,000 live births, whereas infant mortality is estimated at 28 per 1,000 live births.[8] Among the primary causes of high maternal and infant mortality are poor nutrition and inadequate medical care during pregnancy and childbirth.[9]
+On 10 December 2018, the Government of India made NPS an "entirely tax-free" instrument in India where the entire corpus escapes tax at maturity. The "entirely tax free" description is a bit misleading as the beneficiary may be required to purchase an annuity and while the lump sump withdrawal itself may be tax free, the annuity income is taxable as ordinary income at applicable rate[10] Any individual who is a subscriber of NPS can claim tax benefit for Tier-I account under Sec 80 CCD (1) within the overall ceiling of ₹1.5 lakhs under Sec 80 C of Income Tax Act. 1961.[11] An additional deduction for investment up to ₹50,000 in NPS (Tier I account) is available exclusively to NPS subscribers under subsection 80CCD (1B).[12][6][7][8] The changes in NPS was notified through changes in The Income-tax Act, 1961, during the 2019 Union budget of India.[13]  There is no tax benefit on investment towards Tier II NPS Account. NPS is limited EEE, to the extent of 60%.[14] 40% has to be compulsorily used to purchase an annuity, which is taxable at the applicable tax slab.[9] In 2021, withdrawal rules at the time of maturity was changed, and a person can withdraw entire NPS corpus lump sum if it is Rs 5 lakh or less, but 40% will be taxable.[15][16]
 
-The scheme's name has undergone two changes. In 2014, "Indira Gandhi" was dropped from the scheme name. In 2017, "Pradhan Mantri" was added making it Pradhan Mantri Matri Vandana Yojana (PMMVY).[10]
+Contributions to NPS receive tax exemptions under Section 80C and Section 80CCD of the Income Tax Act. Starting from 2016, an additional tax benefit of Rs 50,000 under Section 80CCD(1B) is provided under NPS, which is over the ₹1.5 lakh exemption of Section 80C.[17][18][19] Private fund managers are important parts of NPS.[20][21][22] NPS is considered one of the best tax saving instruments after 40% of the corpus was made tax-free at the time of maturity and it is ranked just below equity-linked savings scheme (ELSS).[23]
 
-Objectives:[11]
+The National Pension System (NPS) is a voluntary define contribution pension system administered and regulated by the Pension Fund Regulatory and Development Authority (PFRDA), created by an Act of the Parliament of India. The NPS started with the decision of the Government of India to stop defined benefit pensions for all its employees who joined after 1 January 2004. While the scheme was initially designed for government employees only, it was opened up for all citizens of India in 2009. NPS is an attempt by the government to create a pensioned society in India. Today, the NPS is readily available and tax efficient under Section 80C and Section 80CCD. Under the NPS, an individual can contribute to his retirement account. Also, his employer can contribute to the welfare and social security of the individual.
 
-IGMSY provides financial assistance as grant-in-aid to state governments.[11]
+NPS is a quasi-EET instrument in India where 40% of the corpus escapes tax at maturity, while 60% of the corpus is taxable.[6][7][8] Of the 60% taxable corpus, 40% is tax-exempt as it has to be compulsorily used to purchase an annuity.[9] The annuity income will be taxed, though. The remaining 20% alone will now be taxed at slab rates on withdrawal.[24] In 2017 Union budget of India, 25% exemption of the contribution made by an employee has been announced as a form of premature partial withdrawal in NPS.[25] This amendment will take effect on 1 April 2018 and will, accordingly, apply in relation to the assessment year 2018–19.[26][27] NPS is a market-linked annuity product.[28]
 
-The Ministry of Women and Child Development introduced PMMVY SOFT MIS on March 17, 2023.  It aims to empower women to independently access and apply for the scheme benefits through the program's website. The Ministry has provided clear and comprehensive guidance on how to navigate the website and apply for these benefits. To gain a thorough understanding of the entire process, you can either visit the website or refer to the simplified explanation below.
+In 1999, the Government of India initiated the OASIS project, aimed at reviewing policies related to old age income security within the nation.[29] As a result, the Defined Contribution Pension System was introduced for new entrants to Central/State Government service, except for the Defence forces, replacing the earlier Defined Benefit Pension System.[29]
 
-To access the official PMMVY website, use this URL: Pradhan Mantri Matru Vandana Yojana – Home . Look for the login section in the upper right corner.
+On 23 August 2003, the Interim Pension Fund Regulatory & Development Authority (PFRDA) was established by the Government of India to oversee pension funds and protect subscribers' interests. The PFRDA Act of 2013 officially confirmed PFRDA as the regulator for the Indian pension sector, effective from 1 February 2014.[30] Notably, other entities like Employee Provident Fund, pension funds by life insurers, and mutual fund firms are beyond PFRDA's scope.[30]
 
-1. Input your 10-digit mobile number and click "Verify."
+The contributory pension system, later termed the National Pension System (NPS), began on 22 December 2003, applied from 1 January 2004. It expanded to all Indian citizens, including self-employed professionals and the unorganised sector from 1 May 2009, on a voluntary basis.[31]
 
-2. Provide your name and select your relationship with the beneficiary.
+Unlike traditional financial products where all the functions (sales, operations, service, fund management, depository) are done by one company, NPS follows an unbundled architecture where each step of the value chain has been made disjointed from the other. This unbundling not only allows the customer to mix and match his providers of service through the value chain, picking the best-suited option, but it also curbs the incidence of misselling.
 
-3. An OTP will be sent to your registered mobile number; enter it.
+NPS architecture consists of the NPS Trust, which is entrusted with safeguarding subscribers' interests, three Central Recordkeeping Agencies (CRAs) which maintain the data and records, Point of Presence (PoP) as collection, distribution and servicing arms, Pension Fund Managers (PFM) for managing the investments of subscribers, a Custodian to take care of the assets purchased by the fund managers, and a Trustee Bank to manage the banking operations. At age 60 the customer can choose to purchase pension Annuity Service Providers (ASP). In 2017, PFRDA increased the entry age in NPS to 70 years, from earlier upper age limit of 65 years.[32][33]
 
-4. Following this, you will be directed to the PMMVY citizen home page.
+There are 13 Pension Fund Managers (PFMs) in NPS,[34] out of which SBI Pension Funds is the largest. All the major commercial banks, brokers and stock holding corporations perform the role of PoP. The subscriber can choose any one of them.
 
-5. Fill out the Beneficiary Application Form, including all personal details, and click "Submit."
+Initially, government employees had no say in the matter of choice of fund manager or investment allocation in NPS, as both are decided by the government. In the default Standard scheme, NPS contributions of government employees is distributed evenly across three public sector fund managers : SBI Pension Funds, LIC Pension Fund, and UTI Pension Fund. Now, government can choose from additional choices (LC-50, LC-25, Scheme G).
 
-6. After submission, you will find an option to Track the Application Status, allowing you to monitor the progress of your application.[12]
+The subscriber can choose to invest either, wholly or in combination, in four types of investment schemes offered by the pension fund managers. These are:
 
-Originally, the scheme was brought under the National Food Security Act, 2013 to implement the provision of cash maternity benefit of ₹6,000 (US$84) stated in the Act.[2] Then, all pregnant women of 19 years of age and above were eligible for conditional cash transfer benefits of ₹5,000 (US$52) to paid in three installments, except those who receive paid maternity leave.[13] After the implementation of National Food Security Act the amount has been revised to ₹6,000 (US$63) to be paid in two installments of ₹3,000 (US$31) each. The cash transfers under the Scheme are subject to the following conditions:
+The subscriber can either specify the percentage allocation herself with Active Choice or may choose from four predefined life cycle fund options under Auto Choice. These are:
 
-However, studies suggest that these eligibility conditions and other conditionalities exclude many women from receiving their entitlements.[15]
+This re-balancing of portfolio takes place on subscriber's birthday.
+
+NPS offers two types of accounts to its subscribers:
+
+The contribution to voluntary savings account (also called Tier-II account) can only be made by the subscriber and not by any third party.[37]
+
+Upon exit, subscriber re-invests a portion of the accumulated corpus is an annuity plan which provides the guaranteed lifelong pension. There are fifteen annuity service providers (ASPs) for subscribers to choose from.
+
+A citizen of India, whether resident or non-resident or an OCI cardholder can join NPS (Through a circular issued on 29 October 2019 PFRDA has stated that now Overseas Citizen of India (OCIs) can enrol to invest in NPS tier-1 accounts), subject to the following conditions:
+
+The Central government employee subscribers grew 4.9% on year to 2.28 million in FY22 while state governments subscribers grew 8.5% to 55.8 lakh during the year. The total number of subscribers as of March 31, 2022, was about 1.6 crore. Total NPS assets under management stood at ₹7,36,000 crore as of March 31, 2022, up from ₹5,78,000 crore as on March 31, 2021.[43] As of February 2026, the total assets under management was over ₹ 16,50,000 crores with total subscriber base of almost 2.2 crores [44]
+
+Premature withdrawal in NPS before age 60 required parking 60% of the sum in an annuity.[45] One can withdraw 40 percent of the corpus before 60 years but he/she must buy annuity with 60 percent of the corpus.[46] In 2016, the NPS allowed withdrawal of up to 25% of contributions for specified reasons, if the scheme is at least 3 years old with certain conditions. 
+One can withdraw the complete amount if the pension collected is less than ₹5,00,000.[47] This amount was increased to ₹5,00,000 as per PFRDA Circular dated 14 June 2021.[48]
+
+Under this scheme, one can choose to remain invested with 60% of the corpus in NPS by contributing till the age of 75 and enable the SLW feature while the corpus continues to grow.[49][50]
+
+Investment in NPS is eligible for tax benefits as follows:
 
 ======Public Provident Fund PPF=========
 The Public Provident Fund (PPF) is a voluntary savings-tax-reduction social security instrument in India,[1] introduced by the National Savings Institute of the Ministry of Finance in 1968. The scheme's main objective is to mobilize small savings for social security during uncertain times by offering an investment with reasonable returns combined with income tax benefits.[2] The scheme is offered by the Central Government. Balance in the PPF account is not subject to attachment under any order or decree of court under the Government Savings Banks Act, 1873. However, Income Tax and other Government authorities can attach the account for recovering tax dues.[3]
@@ -293,4 +310,168 @@ Annual contributions qualify for tax deduction under Section 80C of income tax a
 PPF falls under the EEE (Exempt, Exempt, Exempt) tax basket. Contribution to the PPF account is eligible for tax benefit under Section 80C of the Income Tax Act in the old Tax Regime. Interest earned is exempt from income tax, and maturity proceeds are also exempt from tax.[3]
 
 According to R.K. Mohapatra, General Manager-Finance,[14] IRCON International,[15] and author of the award-winning book "Retirement Planning: A Simple Guide for Individuals", in the falling interest rate era, investment in PPF make senses for people who are in higher income tax brackets because of the advantages of exempt-exempt-exempt (EEE) scheme, which means they get tax deduction under Section 80C when they invest, and the accrual of interest as well as withdrawal is completely tax-free.
+
+======Sukanya Samriddhi Yojana=========
+Sukanya Samriddhi Yojana (Girl Child Prosperity Account) is a Government of India backed saving scheme targeted at the parents of girl children. The scheme encourages parents to build a fund for the future education of their female child.[1][2]
+
+The scheme was launched by Prime Minister Narendra Modi on 22 January 2015 as a part of the Beti Bachao Beti Padhao campaign. The scheme currently provides an interest rate of 8.2%[3] (For Jan -Mar 2024 quarter) and tax benefits. The account can be opened at any India Post office or branch of authorized commercial banks. 
+
+The Sukanya Samriddhi Account Rules, 2016 was rescinded on 12 December 2019 and the new Sukanya Samriddhi Account Scheme, 2019 was introduced.[4]
+
+The scheme was launched by Prime Minister Narendra Modi on 22 January 2015 in Panipat, Haryana.[5][6] The accounts can be opened at any India Post office or a branch of some authorized commercial banks.[7] 
+Initially, the interest rate was set at 9.1% but later revised to 9.2% in late March 2015 for FY2015-16.[7][8]
+
+The latest interest rate for Sukanya Samriddhi Account revised from January 1, 2024 is 8.2%.[3]
+
+The account can be opened anytime between the birth of a girl child and the time she attains 10 years age by the parent/guardian. Only one account is allowed per child. Parents can open a maximum of two accounts for each of their children (exception allowed for twins and triplets). The account can be transferred to anywhere in India.[9]
+
+A minimum of ₹250 must be deposited in the account initially. Thereafter, any amount in multiples of Rs 100 can be deposited. However, the maximum deposit limit is ₹150,000. If the minimum deposit of ₹250, (initially which was 1000) is not made in a year, a fine of ₹50 will be put on.[9]
+
+The girl can operate her account after she reaches the age of 10. The account allows 50% withdrawal at the age of 18 for higher education purposes. The account reaches maturity after time period of 21 years from date of opening it. Deposits in the account can be made till the completion of 15 years, from the date of the opening of the account. After this period the account will earn only applicable rate of interest. If the account is closed, then it will not earn interest at the prevailing rate.[9]  If the girl is over 18 and married, normal closure is allowed.[10][11]
+
+The Sukanya Samriddhi Yojana (SSY) scheme is highly flexible regarding annual deposit amounts. You are not required to deposit the same amount every year.Key Deposit RulesFlexible Amounts: You can choose to deposit any amount between the minimum and maximum limits each financial year based on your financial convenience.Minimum Limit: You must deposit at least ₹250 every financial year to keep the account active.Maximum Limit: You can deposit up to ₹1.5 lakh per financial year.Frequency: You can make a single lump-sum deposit or multiple deposits throughout the year in multiples of ₹50.Duration: Deposits must be made for 15 years from the date the account was opened.What happens if you miss the minimum?If you fail to deposit at least ₹250 in a year, the account is considered "under default." You can regularise it by paying a penalty of ₹50 for each missed year, along with the minimum deposit amount for those years.[12]
+
+Source:[13]
+
+List of states with highest number of accounts as on 31 December 2022
+
+At the time of launch, only the deposits in the account were eligible for tax deduction under Section 80C of the Income Tax Act, which is ₹150,000 in 2015-16. However, Finance Minister Arun Jaitley announced, during the 2015 Union Budget, tax exemption on the interest from the account and on withdrawal from the fund after maturity, making the tax benefits similar to that of the Public Provident Fund. These changes were applied retrospectively from 1 April 2015. These benefits will be reassessed annually.[1][9][20]
+
+For the child (account holder)
+
+For the parents-
+
+By mid-March 2015, within 2 months of launch, 1,80,000 accounts had been opened under the scheme. Karnataka, Tamil Nadu and Andhra Pradesh reported highest number of new accounts.[7]
+The number of accounts opened up to October, 2015 under Sukanya Samriddhi Yojana across the country is 76,19,668. The impact is that 76,19,668 girl children got ₹28.38 billion (US$300 million) deposited in their name.[22]
+
+Provided that the final closure in the Account may be permitted before completion of such period of twenty one years, if the account holder, on an application, makes a request for such premature closure for reasons of intended marriage of the Account holder and on furnishing of age proof confirming that the applicant will not be less than eighteen years of age on the date of marriage:
+
+Provided that no such premature closure shall be made before one month preceding the date of the marriage or after three months from the date of such marriage.
+
+To satisfy the financial needs that the account holder must meet to pursue higher studies, the withdrawal of 50% of the balance to the account’s balance at the close of the previous financial year is permitted.
+
+But, withdrawals can be allowed only after the account holder is age 18 or is in the 10th standard or earlier.
+
+It is not only an application in writing and documentary proof in the form of a valid admissions offer from an educational institution or an demand from the institution confirming that the financial requirements are necessary.
+
+The withdrawal amount is limited to the actual amount of fees and other charges required to be paid at the time of entry, as stated in the offer of admission or on the appropriate fee slip that the institution/college issues.
+
+The withdrawal may be made as a lump sum or in instalments of not more than once per year, maximum five years, subject to a maximum amount confirmed by the institution/college of education.
+
+In the event of the account owner’s death, your account is closed as soon as the authority in charge presents the death certificate.
+
+The balance on your account will be paid together with interest due until the date of death in the guardian’s name.
+
+If the registered girl child dies, parents or legal guardians may be entitled to the amount remaining on the account and accrued interest.
+
+The money will be transferred to the person who is the nominee for the account right away. Additionally, parents or legal guardianship representatives must provide the valid documents confirming your account holder’s death, signed by the authorities concerned.
+
+The interest rate for the period between the dates of death and the closing date of the account will be the interest rate that applies to savings accounts at the post office for balances in the Sukanya Samriddhi Account.[24]
+
+(1) The Account may be transferred anywhere in India and from or to post offices and from or to Banks and between post office and Bank, free of cost on furnishing of proof of shifting of residence of either the guardian or the Account holder and otherwise, on payment of a fees of one hundred rupees to the post office or the Bank to which the transfer is made.
+
+(2) The process of transfer of the account shall be effected electronically if the post office or the Bank concerned, has access to the facility of CBS.[25]
+
+======Pradhan Mantri Jan Dhan Yojana PMJDY=========
+Pradhan Mantri Jan Dhan Yojana (transl. Prime Minister's Public Finance Scheme) is a financial inclusion program of the Government of India open to Indian citizens (minors of age 10 and older can also open an account with a guardian to manage it), that aims to expand affordable access to financial services such as bank accounts, remittances, credit, insurance and pensions.[1] This financial inclusion campaign was launched by the Prime Minister of India Narendra Modi on 28 August 2014.[2] He had announced this scheme on his first Independence Day speech on 15 August 2014.
+
+Run by Department of Financial Services, Ministry of Finance, under this scheme 15 million bank accounts were opened on inauguration day.[3][4] The Guinness Book of World Records recognized this achievement, stating: "The most bank accounts opened in one week as a part of the financial inclusion campaign is 18,096,130 and was achieved by the Government of India from August 23 to 29, 2014".[5] By 27 June 2018, over 318 million bank accounts were opened and over ₹792 billion (US$12 billion) were deposited under the scheme.[6]
+
+It was launched by the Prime Minister Narendra Modi on 15 August 2014. The slogan of the scheme is "Mera Khaata, Bhagya Vidhata" (meaning "My account, fortune maker")[7] The scheme was launched after the failure of previous government schemes, including Swaabhimaan.[8] Swaabhimaan was a 2011 campaign of the Government of India which aimed to bring banking services to rural areas.
+
+Pradhan Mantri Jan-Dhan Yojana statistics as of 17 August 2022 (All figures in crores)[6]
+
+Jan Dhan Yojana was announced by Narendra Modi on 15 August 2014 and the scheme was launched on 28 August 2014. 
+
+Number of bank accounts opened annually[9][10]
+
+Due to the preparations done in the run-up to the inauguration, 15 million bank accounts were opened on inauguration day.[3] Narendra Modi declared on this occasion, "Let us celebrate today as the day of financial freedom." By September 2014, 30.2 million accounts were opened with:
+
+[11]
+On 20 January 2015, the scheme entered the Guinness Book of World Records, setting a new record for 'The most bank accounts opened in one week'.[12]
+
+The balances in Jan Dhan accounts rose by more than ₹270 billion (US$2.8 billion) between 9 November 2016 and 23 November 2016.[13] 1.9 million householders have availed of the overdraft facility of ₹2.56 billion (US$27 million) by May 2016.[14] Uttar Pradesh and West Bengal have 29% of the total deposits under the scheme,[15] whereas Kerala and Goa became the first states in the country to have at least one basic bank account in every household.[16]
+
+The total number of account holders stood at 294.8 million, including 176.1 million account holders from rural and semi-urban branches. A total of 227 million RuPay cards have been issued by National Payments Corporation of India (NPCI) till August 2017. The amount of deposits rose to ₹656.97 billion (US$6.9 billion) by August 2017.[7]
+
+According to various studies, "Beyond enabling account ownership and the use of financial services, the PMJDY also facilitated financial inclusion for a variety of demographics. While the program has made significant headway towards genuine financial inclusion, it is clear that improving policy communication, widening and deepening progress in low-income states, and ironing out the kinks in the bank-agent model will be crucial if these hard-fought gains are to prove sustainable."[17] At least 300 million new families have got Jan Dhan accounts in which almost ₹650 billion (US$6.8 billion) have been deposited, Prime Minister Narendra Modi said on 28 August 2017, on the eve of the third anniversary of the scheme.
+
+As of January 27, 2021, a total number of 417.5 million accounts have been opened under the Pradhan Mantri Jan Dhan Yojana (PMJDY), out of which 359.6 million accounts are operative.[18]
+
+According to the World Bank’s Spring 2025 Poverty and Equity Brief, approximately 171 million people in India moved out of extreme poverty between 2011 and 2023, with the poverty rate declining from 16.2% to 2.3% based on the international poverty line of $2.15 per day. The report stated sustained economic growth along with targeted government initiatives, including the Pradhan Mantri Jan Dhan Yojana (PMJDY), as key contributors to this progress. PMJDY significantly expanded financial inclusion by facilitating the opening of over 550 million bank accounts. These accounts were linked to the Aadhaar digital ID system and mobile numbers, forming the JAM trinity (Jan Dhan-Aadhaar-Mobile), which enabled efficient and transparent delivery of government subsidies and welfare benefits. As of March 2023, the Direct Benefit Transfer (DBT) mechanism, supported by Jan Dhan accounts, had saved the government approximately ₹3.48 lakh crore, or around USD$4.19 billion, in leakages.[19]
+
+The scheme has been criticized by the opposition, and that it has created unnecessary work-burden on the public-sector banks. According to critics, offers like zero balance, free insurance and overdraft facility would result in duplication. Many individuals who already had bank accounts may have had accounts created in their names, lured by insurance cover and overdraft facility.[20] As per the scheme, a very few people are eligible to get the life insurance worth ₹30,000 (US$310) with a validity of just five years.[21] The claimed overdraft facility has been completely left upon the banks. As per the government notice, only those people would get the overdraft facility whose transaction record has satisfactory operations in their account for some time.[22] In March 2018, the Government of India stated that around 20% of Jan Dhan accounts were lying dormant.[23]
+
+In addition, while the Indian Government was ostensibly actively attempting to promote financial inclusion through this scheme, the Reserve Bank of India, permitted banks to charge customers for conducting ATM transactions beyond a certain number of times per month. This effectively prevented people from easily accessing their own savings and discouraged them from using formal banking channels.[24][25][26]
+
+======Pradhan Mantri Kisan Samman Nidhi PM-KISAN=========
+Pradhan Mantri Kisan Samman Nidhi (PMKISAN, translation: Prime Minister's Farmer's Tribute Fund) is an initiative by the government of India that give farmers up to ₹6,000 (US$63) per year as minimum income support. The initiative was announced by Piyush Goyal during the 2019 Interim Union Budget of India on 1 February 2019.[1][2][3][4] The scheme has cost ₹75,000 crore (equivalent to ₹930 billion or US$9.7 billion in 2023) per annum and came into effect December 2018.[5][6]
+
+The scheme was first conceived and implemented by Government of Telangana as the Rythu Bandhu scheme, where a certain amount is given directly to eligible farmers. The scheme has received accolades[7] from various organisations for its successful implementation, including World Bank. Many economists suggest that this type of investment support is better[8] than farm loan waivers. With the positive outcome of this scheme, Government of India wanted to implement[9] it as nationwide project and it was announced by Piyush Goyal during the 2019 Interim Union Budget of India on 1 February 2019.[4][3]
+
+For 2018–2019, ₹20,000 crore was allocated under this scheme. On 24 February 2019, Narendra Modi launched the scheme in Gorakhpur, Uttar Pradesh, by transferring the first instalment of ₹2,000 each to over one crore farmers.[10][11]
+
+Ministry of Agriculture and Farmers Welfare has awarded the top-performing states, and districts under PM Kisan Samman Nidhi Yojana.[12] In addition to PMKISAN,[13] individuals can explore a wide range of government schemes aimed at providing financial assistance and support to farmers and other beneficiaries. It is based on the criteria such as correction of data, addressing farmer grievances, and timely physical verification exercise.[14]
+
+₹15,000 for non-beneficiaries of PM Kisan
+
+Civil Servants with High Income
+
+Up to 2 hectares[18]
+
+Up to 2 hectares
+
+======Pradhan Mantri Shram Yogi Maandhan PM-SYM=========
+
+Pradhan Mantri Shram Yogi Maandhan is a social welfare scheme launched by the Ministry of Labour and Employment of the Government of India on 15th February 2019 [1] for poor labourers in the unorganised sector from minimum 18 years of age to maximum 40 years. According to government figures, about 42 crore people in India are associated with the unorganized sector. These people have a chance to take advantage of this scheme.[2]
+
+Pradhan Mantri Shram Yogi Maandhan is available to unorganized workers between 18 and 40 years of age.[3] Further, the monthly income of the worker should be below ₹15,000 (US$160). Under the scheme, the subscriber will receive a minimum assured pension of ₹3,000 (US$31) per month[4]  after attaining the age of 60 years. However, to benefit from the scheme, workers have to contribute ₹55 monthly (for age 18) and it varies according to age. Maximum contribution for a year cannot exceed ₹2400 (Rs.200 per month). Further, if the subscriber dies, the spouse of the beneficiary shall be entitled to receive 50% of the pension as family pension. Family pension is applicable only to spouse.
+
+Due to the erratic nature of the works of unorganized sector, the exit provisions have been kept flexible. As such the subscriber can exit prematurely and the amount will be returned with interest at the saving bank account rate, or the rate at which the fund earned income (if the subscriber exits after a 10-year period), whichever is higher. Further, the spouse has the option to continue the scheme and to contribute on the subscriber's behalf.
+
+To avail the scheme, the concerned person has to visit the Community Service Center. Aadhaar and Jan Dhan Bank account are necessary.
+
+======Pradhan Mantri Awas Yojana Urban PMAY=========
+Pradhan Mantri Awas Yojana (PMAY) is a credit-linked subsidy scheme by the Government of India to facilitate access to affordable housing for the low and moderate-income residents of the country. It envisaged a target of building 2 crore (20 million) affordable houses by 31 March 2022.[1][2] It has two components: Pradhan Mantri Awas Yojana (Urban) (PMAY-U) for the urban poor and Pradhan Mantri Awaas Yojana (Gramin)[3] (PMAY-G and also PMAY-R) for the rural poor, the former administered by Ministry of Housing and Urban Affairs and the latter by Ministry of Rural Development.[4][5] This scheme converges with other schemes to ensure that houses have a toilet, Saubhagya Scheme for universal electricity connection, Ujjwala Yojana LPG connection, access to drinking water and Jan Dhan banking facilities, etc.[6]
+
+Public housing programme in India started with the rehabilitation of refugees immediately after the partition. Till 1960, nearly five lakh families were provided houses in different parts of Northern India. In 1957, within the ambit of the second five-year plan of Prime Minister Nehru, Village Housing Programme (VHP) was introduced providing loans to individuals and cooperatives of up to ₹5,000 per unit. Only 67,000 houses could be constructed in this scheme till the end of the fifth Five Year Plan (1974–1979). Another scheme introduced in the fourth called House Sites-cum-Construction Assistance Scheme (HSCAS) was also transferred to the State Sector from 1974 to 1975.[7]
+
+With the launch of Indira Awas Yojana (IAY) by the then Prime Minister Rajiv Gandhi in 1985, the public housing programme in India got a boost. IAY was launched as a rural housing programme targeting SC/ST and the Minority population. The programme was gradually extended to cover all Below Poverty Line (BPL) population.[8]
+
+As a part of the continuous efforts of the Indian Government to fulfill the housing needs of rural and urban poor, Pradhan Mantri Awaas Yojana was launched by Prime Minister Narendra Modi in June 2015 with an aim to provide affordable housing.[9][10]
+
+Under PMAY, it is proposed to build 2 crore houses for the urban poor including Economically Weaker Sections and Low-Income Groups in urban areas by the year 2022 through the financial assistance of ₹2 lakh crore (US$21 billion) from the central government.[4][1][2] Under the Pradhan Mantri Awas Yojana, a subsidy of ₹2.67 lakh is provided by the government on the interest of home loan for buying a house. The Uttar Pradesh Housing Development Council will provide houses at affordable rates under the Pradhan Mantri Awas Yojana. Applications have been sought under this scheme for about 3,516 houses in Uttar Pradesh. The booking starts from 1 September 2020 and the last date of booking is 15 October 2020. These houses are located in 19 cities in the state of Uttar Pradesh. People from poor families will be able to buy these houses for only ₹3.5 lakh. All those people whose annual income is less than ₹3 lakh are eligible to apply for these houses. The Uttar Pradesh Housing Development Council had earlier kept the repayment time of the house up to 5 years, which has been changed to 3 years.
+
+Indira Awas Yojana or IAY is one of the first centralised housing schemes for Indians. It was introduced by the then Prime Minister, Rajiv Gandhi, in 1985. The scheme's primary objective was to provide housing for the economically weaker sections in the country, and individuals belonging to below the poverty line or BPL. At first, its benefits were exclusive to beneficiaries from the Scheduled Caste and Scheduled Tribe minority groups. However, as of 2016, 
+IAY was officially merged with the Pradhan Mantri Awas Yojana Gramin scheme.
+
+The features of Pradhan Mantri Awas Yojana are that the government will provide an interest subsidy of 6.5% (for EWS and LIG), 4% for MIG-I and 3% for MIG-II[11][12] on housing loans availed by the beneficiaries for a period of 20 years under credit link subsidy scheme (CLSS) from the start of a loan. The houses under Pradhan Mantri Awas Yojana would be constructed through an eco-friendly technology while allotting ground floors in any housing scheme under PMAY, preference will be given to differently-abled and older persons.
+
+The government has approved an investment of ₹43,922 crore (US$4.6 billion) for construction of 6,83,724 houses for urban poor including central assistance commitment of ₹10,050 crore (US$1.0 billion) by April 2016.[9]
+
+Condition for PMAY:
+
+(a) Beneficiary max age 70 years.
+
+(b) EWS (Economic Weaker Section) family income limit is ₹3 lakhs per annum and for LIG (Lower Income Group) Family Income limit is ₹6 Lakhs per annum,[13] and Middle Income Group -(MIG-I) income between ₹6 lakhs to ₹12 lakhs per annum, (MIG-II) income between ₹12 lakhs to ₹18 lakhs per annum.[11][12]
+
+c) The beneficiary should not have an own dwelling unit in the name of any family member in any part of India.[5]
+
+d) The loan applicant should not have availed any central/state government subsidy or benefit for buying a home under the PMAY scheme.
+
+e) Currently, the loan applicant should not own any property under their name and along with any of the family members (including the dependents).
+
+f) The home renovation or improvement loans, self-construction loans will be allocated only for EWS and LIG categories.
+
+The houses given under this scheme will be owned by females or jointly with males.[9]
+
+3 Phases of PMAY envisage starting and completing the house construction work as follows:
+
+As of 25 April 2016, the government has identified 2,508 cities and towns in 26 states for beginning construction of houses for urban poor.[14] Construction of 1,86,777 additional houses for the benefit of urban poor with an investment of ₹11,169 cr with central assistance of ₹2,797 cr was approved in February 2018, taking the cumulative total houses approved to 39,25,240 houses including subsumed RAY scheme, of the targeted 1 crore houses by March 2022.
+
+ICICI Bank is giving subsidized home loans to the people eligible for this scheme.[15]
+
+"Rajiv Awas Yojana (RAY)" was an Indian government program that attempts to help slum dwellers gain appropriate housing and address the processes by which slums are created and reproduced. It was introduced by the Indian government's Ministry of Housing and urban poverty Alleviation. The programme was a Centrally Sponsored Scheme, which ran from 2013 to 2014.[16] The scheme aimed to make India slum-free by 2022 by providing people with shelter or housing, free of cost. It began with a pilot project, before launching in mission mode.[17] The government earmarked ₹32,230 crore (US$3.4 billion) for its implementation during India's 12th Five Year Plan. One million beneficiaries were proposed to be covered under Rajiv Awas Yojana.
+
+Site selection was to be made by the states in consultation with the Centre giving priority to district headquarters, cities of religious heritage and tourist importance, with due consideration to the criterion of the pace of growth of the city, of slums within the city and predominance of Scheduled Caste, Scheduled Tribe and minority population and other weaker and vulnerable section of the society. SBI has now slashed down the interest rate of home loans above ₹75 lakh by 10 basis points. From June 15, 2017, the rate for the same will be 8.55-8.6%.
 

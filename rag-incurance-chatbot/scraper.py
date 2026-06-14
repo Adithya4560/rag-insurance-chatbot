@@ -9,8 +9,13 @@ url={
     "Atal Pension Yojana APY": "https://en.wikipedia.org/wiki/Atal_Pension_Yojana",
     "Employees State Insurance ESI":"https://en.wikipedia.org/wiki/Employees%27_State_Insurance",
     "PM Fasal Bima Yojana PBF": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Fasal_Bima_Yojana",
-    "PM Vaya Vandana Yojana PMV": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Matri_Vandana_Yojana",
+    "National Pension System NPS": "https://en.wikipedia.org/wiki/National_Pension_System",
     "Public Provident Fund PPF": "https://en.wikipedia.org/wiki/Public_Provident_Fund_(India)",
+    "Sukanya Samriddhi Yojana": "https://en.wikipedia.org/wiki/Sukanya_Samriddhi_Account",
+    "Pradhan Mantri Jan Dhan Yojana PMJDY": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Jan_Dhan_Yojana",
+    "Pradhan Mantri Kisan Samman Nidhi PM-KISAN": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Kisan_Samman_Nidhi",
+    "Pradhan Mantri Shram Yogi Maandhan PM-SYM": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Shram_Yogi_Mandhan",
+    "Pradhan Mantri Awas Yojana Urban PMAY": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Awas_Yojana",
 }
 for title, i in url.items():
     res=requests.get(i,headers=headers)

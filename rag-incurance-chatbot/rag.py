@@ -8,8 +8,13 @@ import os
 
 load_dotenv()  
 client=Groq(api_key=os.getenv("GROQ_API_KEY"))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FILE_PATH = os.path.join(BASE_DIR, "dat", "insurance.txt")
 
-with open(os.path.join("dat", "insurance.txt"), "r", encoding="utf-8") as f:
+print("BASE_DIR =", BASE_DIR)
+print("FILE_PATH =", FILE_PATH)
+print("FILE EXISTS =", os.path.exists(FILE_PATH))
+with open(FILE_PATH, "r", encoding="utf-8") as f:
     data=f.read()
 chunks=data.split("\n\n")
 model=SentenceTransformer('all-MiniLM-L6-v2')

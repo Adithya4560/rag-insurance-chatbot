@@ -17,7 +17,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
-        st.write(message["content"])
+        st.markdown(message["content"])
 user_input=st.chat_input("Ask me anything about insurance schemes...")
 if user_input:
     with st.chat_message("user"):
@@ -29,7 +29,14 @@ if user_input:
             yield word + " "
             time.sleep(0.05)
     with st.chat_message("assistant"):
-        st.write_stream(stream_response(response))
+        placeholder = st.empty()
+        full_response = ""
+
+        for word in response.split():
+            full_response += word + " "
+            placeholder.markdown(full_response+"▌")
+            time.sleep(0.03)
+        placeholder.markdown(full_response)
     st.session_state.messages.append({"role":"assistant","content":response})
     
     

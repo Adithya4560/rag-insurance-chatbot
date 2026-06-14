@@ -24,19 +24,23 @@ if user_input:
         st.write(user_input)
     st.session_state.messages.append({"role":"user","content":user_input})
     response = ask(user_input)
-    def stream_response(text):
-        for word in text.split():
-            yield word + " "
-            time.sleep(0.05)
+    comparison_keywords = ["compare", "difference", "vs", "versus","comparison","similarities","dissimilarities"]
+    is_comparison = any(
+        word in user_input.lower()
+        for word in comparison_keywords
+    )
     with st.chat_message("assistant"):
-        placeholder = st.empty()
-        full_response = ""
+        if is_comparison:
+            st.markdown(response)
+        else:
+            placeholder = st.empty()
+            full_response = ""
 
-        for word in response.split():
-            full_response += word + " "
-            placeholder.markdown(full_response+"▌")
-            time.sleep(0.03)
-        placeholder.markdown(full_response)
+            for word in response.split():
+                full_response += word + " "
+                placeholder.markdown(full_response + "▌")
+                time.sleep(0.03)
+            placeholder.markdown(full_response)
     st.session_state.messages.append({"role":"assistant","content":response})
     
     

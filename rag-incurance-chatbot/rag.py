@@ -1,11 +1,12 @@
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
+import os
 from groq import Groq
-client=Groq(api_key="GROQ_API_KEY")
+client=Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 
-with open(r"C:\Users\Lenovo\OneDrive\Desktop\A Folder\rag-incurance-chatbot\dat\insurance.txt", "r", encoding="utf-8") as f:
+with open(os.path.join("data", "insurance.txt"), "r", encoding="utf-8") as f:
     data=f.read()
 chunks=data.split("\n\n")
 model=SentenceTransformer('all-MiniLM-L6-v2')

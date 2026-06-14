@@ -3,8 +3,11 @@ import faiss
 import numpy as np
 import os
 from groq import Groq
-client=Groq(api_key=os.getenv("GROQ_API_KEY"))
+from dotenv import load_dotenv
+import os
 
+load_dotenv()  
+client=Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 with open(os.path.join("data", "insurance.txt"), "r", encoding="utf-8") as f:
     data=f.read()

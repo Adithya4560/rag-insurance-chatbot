@@ -32,23 +32,15 @@ def ask(question):
     "comparison",
     "vs",
     "versus"
+    "similarities",
+    "dissimilarities"
     ]
 
     is_comparison = any(
         keyword in question.lower()
         for keyword in comparison_keywords
     )
-
-    if is_comparison:
-        ind = search(question, k=6)
-    else:
-        ind = search(question, k=3)
-    context="\n".join(ind)
-    response=client.chat.completions.create(
-    model="llama-3.3-70b-versatile",
-    messages=[{"role":"system","content":"""You are a helpful and very intelligent when it comes to insurance related queries and you have access to a database of insurance related information and you can use that information to answer the user's queries. You can also use the search function to search for relevant information in the database and use that information to answer the user's queries.
-               Official application links for schemes:
-1. Ayushman Bharat PMJAY: https://pmjay.gov.in
+    scheme_keywords="""1. Ayushman Bharat PMJAY: https://pmjay.gov.in
 2. Pradhan Mantri Jeevan Jyoti Bima Yojana PMJJBY: https://jansuraksha.gov.in
 3. Pradhan Mantri Suraksha Bima Yojana PMSBY: https://jansuraksha.gov.in
 4. Atal Pension Yojana APY: https://www.myscheme.gov.in/schemes/apy
@@ -60,31 +52,42 @@ def ask(question):
 10. Pradhan Mantri Jan Dhan Yojana PMJDY: https://pmjdy.gov.in
 11. PM Kisan Samman Nidhi PM-KISAN: https://pmkisan.gov.in
 12. PM Shram Yogi Maandhan PM-SYM: https://maandhan.in
-13. Pradhan Mantri Awas Yojana Urban PMAY: https://pmaymis.gov.in/
+13. Pradhan Mantri Awas Yojana Urban PMAY: https://pmaymis.gov.in/"""
+    normal_prompt =f"""
+You are an insurance assistant.
+{scheme_keywords}
 If user asks how to apply or where to apply, provide the relevant link above.
-If the user asks to compare two or more schemes:
+Answer normally using headings, bullet points and paragraphs.
 
-1. ALWAYS use a valid Markdown table.
-2. The first row must contain column headers.
-3. The second row must contain separator dashes.
+Do not use markdown tables unless the user explicitly asks for a comparison.
+"""
+    comparison_prompt = f"""
+    You are an insurance assistant.
+    {scheme_keywords}
+    If user asks how to apply or where to apply, provide the relevant link above.
+    For comparison questions:
 
-If comparing schemes:
+    Return a valid markdown table.
 
-Output ONLY a markdown table first.
+    Example:
 
-Example:
+    | Feature | APY | PMSBY |
+    |----------|----------|----------|
+    | Purpose | Pension | Accident Insurance |
+    | Age | 18-40 | 18-70 |
 
-| Feature | APY | PMSBY |
-|----------|----------|----------|
-| Purpose | Pension | Accident Insurance |
-| Age | 18-40 | 18-70 |
+    After the table provide a short summary.
+    """
+    system_prompt = comparison_prompt if is_comparison else normal_prompt
 
-After the table write a short conclusion.
-
-Do not write any text before the table.
-Do not write "Here is a markdown table".
-Do not use || symbols.
-               """},
+    if is_comparison:
+        ind = search(question, k=6)
+    else:
+        ind = search(question, k=3)
+    context="\n".join(ind)
+    response=client.chat.completions.create(
+    model="llama-3.3-70b-versatile",
+    messages=[{"role":"system","content":system_prompt},
               {"role":"user","content":f"Context:{context}\n\nQuestions:{question}"}
               ]
 )

@@ -26,7 +26,20 @@ def search(query,k=3):
 
 
 def ask(question):
-    if "difference" in question.lower() or "compare" in question.lower():
+    comparison_keywords = [
+    "difference",
+    "compare",
+    "comparison",
+    "vs",
+    "versus"
+    ]
+
+    is_comparison = any(
+        keyword in question.lower()
+        for keyword in comparison_keywords
+    )
+
+    if is_comparison:
         ind = search(question, k=6)
     else:
         ind = search(question, k=3)
@@ -55,23 +68,22 @@ If the user asks to compare two or more schemes:
 2. The first row must contain column headers.
 3. The second row must contain separator dashes.
 
+If comparing schemes:
+
+Output ONLY a markdown table first.
+
 Example:
 
-| Feature | PMJJBY | APY |
+| Feature | APY | PMSBY |
 |----------|----------|----------|
-| Purpose | Life Insurance | Pension |
-| Age | 18-50 | 18-40 |
-| Benefit | ₹2 lakh cover | ₹1,000-₹5,000 monthly pension |
+| Purpose | Pension | Accident Insurance |
+| Age | 18-40 | 18-70 |
 
-After the table, provide a short summary.
+After the table write a short conclusion.
 
-Never use:
-| A | B || --- | --- ||
-
-Always use valid Markdown tables.
-If you don't know something, say I don't know.
-Do not make up information.
-If you don't know something say I don't know.
+Do not write any text before the table.
+Do not write "Here is a markdown table".
+Do not use || symbols.
                """},
               {"role":"user","content":f"Context:{context}\n\nQuestions:{question}"}
               ]

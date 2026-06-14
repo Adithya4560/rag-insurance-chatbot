@@ -5,7 +5,7 @@ accurate information about Indian government insurance and financial
 schemes using AI.
 
 ## 🚀 Live Demo
-[Coming Soon - Streamlit Cloud]
+[Click here to try the chatbot](https://rag-insurance-chatbot-h2ldrpph474x3gsgqz3slc.streamlit.app/)
 
 ## 📌 About The Project
 This chatbot helps users get instant, accurate answers about 13 Indian 

@@ -26,7 +26,10 @@ def search(query,k=3):
 
 
 def ask(question):
-    ind=search(question)
+    if "difference" in question.lower() or "compare" in question.lower():
+        ind = search(question, k=6)
+    else:
+        ind = search(question, k=3)
     context="\n".join(ind)
     response=client.chat.completions.create(
     model="llama-3.3-70b-versatile",
@@ -46,7 +49,26 @@ def ask(question):
 12. PM Shram Yogi Maandhan PM-SYM: https://maandhan.in
 13. Pradhan Mantri Awas Yojana Urban PMAY: https://pmaymis.gov.in/
 If user asks how to apply or where to apply, provide the relevant link above.
-If user asks to compare schemes, present a clear comparison table.
+If the user asks to compare two or more schemes:
+
+1. ALWAYS use a valid Markdown table.
+2. The first row must contain column headers.
+3. The second row must contain separator dashes.
+
+Example:
+
+| Feature | PMJJBY | APY |
+|----------|----------|----------|
+| Purpose | Life Insurance | Pension |
+| Age | 18-50 | 18-40 |
+| Benefit | ₹2 lakh cover | ₹1,000-₹5,000 monthly pension |
+
+After the table, provide a short summary.
+
+Never use:
+| A | B || --- | --- ||
+
+Always use valid Markdown tables.
 If you don't know something, say I don't know.
 Do not make up information.
 If you don't know something say I don't know.
